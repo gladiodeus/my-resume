@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+header{
+    background-color: green;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 40px;
+     
+}
+header img{
+    border-radius: 300px;
+    border: 20px solid dimgrey
+}
+header h1{
+    color: white;
+}
+
+main{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 25px;
+    background-color: ghostwhite;
+}
+
+main img{
+    max-width: 100%;
+}
+a{
+    color: black;
+}
+a:hover{
+    color: green;
+}
+footer{
+    background-color: green;
+    text-align: center;
+    padding: 30px;
+}
+footer p{
+    margin: 0;
+}
+li{
+    font-size: 15px;
+}
+h3{
+    font-size: 20px;
+}
+h2{
+    font-size: 25;
+}
